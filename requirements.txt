@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-google-genai
+sentence-transformers
+neo4j
+python-dotenv
+pydantic
